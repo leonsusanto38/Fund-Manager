@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UAS_PABA</string>
+    
+    <string-array name="category">
+        <item>Food</item>
+        <item>Transportation</item>
+        <item>Shop</item>
+        <item>Work</item>
+    </string-array>
+</resources>

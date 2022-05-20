@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189822417913",
+    "project_id": "uas-paba-5b1cd",
+    "storage_bucket": "uas-paba-5b1cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189822417913:android:7b16250805f68c98491b28",
+        "android_client_info": {
+          "package_name": "com.example.uas_paba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189822417913-pjnjsd969n4dsnugne31fbph270s33i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmBF9zDvtcXpUMVtkgj4aGfwUmi3uKEJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189822417913-pjnjsd969n4dsnugne31fbph270s33i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
